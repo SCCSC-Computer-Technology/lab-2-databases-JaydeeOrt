@@ -1,0 +1,12 @@
+C:\Users\Jaydee\Desktop\JOrtizLab2\bin\Debug\CityDB.mdf
+C:\Users\Jaydee\Desktop\JOrtizLab2\bin\Debug\CityDB_log.ldf
+C:\Users\Jaydee\Desktop\JOrtizLab2\bin\Debug\JOrtizLab2.exe.config
+C:\Users\Jaydee\Desktop\JOrtizLab2\bin\Debug\JOrtizLab2.exe
+C:\Users\Jaydee\Desktop\JOrtizLab2\bin\Debug\JOrtizLab2.pdb
+C:\Users\Jaydee\Desktop\JOrtizLab2\obj\Debug\JOrtizLab2.csproj.AssemblyReference.cache
+C:\Users\Jaydee\Desktop\JOrtizLab2\obj\Debug\JOrtizLab2.Form1.resources
+C:\Users\Jaydee\Desktop\JOrtizLab2\obj\Debug\JOrtizLab2.Properties.Resources.resources
+C:\Users\Jaydee\Desktop\JOrtizLab2\obj\Debug\JOrtizLab2.csproj.GenerateResource.cache
+C:\Users\Jaydee\Desktop\JOrtizLab2\obj\Debug\JOrtizLab2.csproj.CoreCompileInputs.cache
+C:\Users\Jaydee\Desktop\JOrtizLab2\obj\Debug\JOrtizLab2.exe
+C:\Users\Jaydee\Desktop\JOrtizLab2\obj\Debug\JOrtizLab2.pdb

@@ -1,0 +1,11 @@
+Code Review of Jorge Ortiz Lab 2
+
+Nicholas Chapman-Miller
+
+	Code compiles without any issues/errors/warnings. Code is very simple and clean. Lacking documentation although it would be pretty short if it was there since all the buttons are one line of code. 
+
+	Could not find any crashes/bugs/exceptions while using all the controls, which is great! The only button with a shortcut is exit though so the rest of the buttons need a shortcut. 
+
+	My solution was very similar to yours although one thing you did differently was the way you showed the results for highest/lowest population. I put the result of a query in a Messagebox while your query updated the table to show the specific record that has the highest/lowest population. I like your way of displaying the result better as it looks much cleaner and shows the specific city. Great code and form!!!
+
+	

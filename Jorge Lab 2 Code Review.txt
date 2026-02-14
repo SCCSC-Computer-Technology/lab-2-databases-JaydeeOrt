@@ -1,0 +1,24 @@
+Lab 2 Code Review
+Brieana Hunter
+
+
+First Impressions:
+I like how in the program, when you click the highest and lowest buttons, it shows the row in the database and kinda highlights that town. You can see the population, city, and state. I also like how nice and big the buttons are; it makes it easy for the users to see and read. Overall, I think the application's layout is very user-friendly and easy to navigate. 
+
+
+Readability:
+The code is very easy to read, not overly complicated, and easy to follow. I like how you coded this program; it is very simple, which I really like. There are no comments in the code, but I also forgot to include them because I feel like most functions explain themselves in this program.
+
+
+Software Error:
+I did not notice any errors.
+
+
+How Our Programs Differ:
+Our programs are quite different, for example, to get the average of the row I did-
+average = cityDBDataSet.City.Average(row => row.Population);
+However, I really like the way you wrote your code; it is much simpler.
+
+
+Constrictive Criticism:
+I don't have any criticism. I like the way you coded your program, and the layout was nice and easy to read. 
